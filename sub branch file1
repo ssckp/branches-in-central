@@ -1,2 +1,4 @@
 git add . is using adding a file into tracking area and unstage area
-git add .
+
+git status is used to track the file status
+
